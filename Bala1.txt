@@ -15,3 +15,14 @@ Amazon Web Services (AWS) is a cloud computing platform provided by Amazon that 
 6.DevOps tools
 
 on a pay-as-you-go model.
+
+Core AWS Services
+🔹 Compute
+
+Amazon EC2 – Virtual servers
+
+AWS Lambda – Serverless computing
+
+Amazon ECS – Container service
+
+Amazon EKS – Managed Kubernetes
