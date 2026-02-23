@@ -1,0 +1,17 @@
+What is AWS?
+
+Amazon Web Services (AWS) is a cloud computing platform provided by Amazon that offers:
+
+1.Compute
+
+2.Storage
+
+3.Networking
+
+4.Databases
+
+5.Security
+
+6.DevOps tools
+
+on a pay-as-you-go model.
