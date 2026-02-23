@@ -1,0 +1,16 @@
+Networking
+
+Amazon VPC – Virtual network
+
+Security Groups – Firewall for EC2
+
+NACL – Subnet-level firewall
+
+Elastic Load Balancer (ELB)
+
+
+Database
+
+Amazon RDS – Managed DB (MySQL, PostgreSQL, etc.)
+
+Amazon DynamoDB – NoSQL DB
