@@ -27,3 +27,41 @@ Amazon ECS – Container service
 
 Amazon EKS – Managed Kubernetes
 Hello Devops.
+
+Small Summary about Amazon Web Services
+
+AWS (Amazon Web Services) is a cloud computing platform provided by Amazon. It offers on-demand computing services like servers, storage, databases, networking, and more — all over the internet.
+
+🔹 Key Points:
+
+Launched: 2006
+
+Service Model: Pay-as-you-go
+
+Global Infrastructure: Data centers worldwide
+
+Highly Scalable & Reliable
+
+🔹 Popular AWS Services:
+
+Amazon EC2 – Virtual servers in the cloud
+
+Amazon S3 – Cloud storage
+
+Amazon RDS – Managed databases
+
+AWS Lambda – Serverless computing
+
+Amazon VPC – Virtual networking
+
+🔹 Why AWS is Used?
+
+Cost-effective
+
+Secure
+
+Easy to scale
+
+Supports DevOps & automation
+
+👉 In simple words: AWS lets companies run applications and store data without buying physical servers.
