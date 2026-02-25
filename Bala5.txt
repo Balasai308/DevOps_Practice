@@ -44,4 +44,11 @@ a bird known for being the fastest in the world.
 * Performance enthusiasts
 * Bike collectors
 
+It Once Broke the Speed War
+
+In the late 1990s, Hayabusa became the fastest production motorcycle in the world (around 312 km/h).
+
+After that, manufacturers like Suzuki, Honda, and Kawasaki agreed to limit top speeds to 299 km/h.
+
+That’s why modern superbikes are electronically limited.
 
