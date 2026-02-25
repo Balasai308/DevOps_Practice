@@ -1,0 +1,8 @@
+What is Git?
+Git is a version control system.
+It helps you :
+Track code changes
+Work with multiple developers
+Maintain versions (history)
+Fix bugs using previous versions
+Manage branches
