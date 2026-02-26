@@ -6,3 +6,46 @@ Work with multiple developers
 Maintain versions (history)
 Fix bugs using previous versions
 Manage branches
+
+## 🎬 Oppenheimer – Story Summary
+**Director:** Christopher Nolan
+**Based on:** American Prometheus
+---
+### 🔬 Early Life & Career
+The movie tells the story of **J. Robert Oppenheimer**, a brilliant physicist.
+He studies physics in Europe and becomes an important scientist in the United States.
+He later becomes known as the “Father of the Atomic Bomb.”
+---
+### 💣 The Manhattan Project
+During **World War II**, the U.S. government starts a secret project called the **Manhattan Project**.
+Oppenheimer is chosen to lead the project at **Los Alamos, New Mexico**.
+The goal is to build the first atomic bomb before Nazi Germany.
+Many top scientists work under him.
+---
+### ⚡ First Atomic Bomb Test
+In 1945, they successfully test the first atomic bomb.
+This test is called **Trinity Test**.
+Oppenheimer famously remembers a line from the **Bhagavad Gita**:
+> “Now I am become Death, the destroyer of worlds.”
+---
+### 🌍 Hiroshima & Nagasaki
+The U.S. drops atomic bombs on:
+* Hiroshima
+* Nagasaki
+Japan surrenders, and World War II ends.
+But thousands of people die.
+Oppenheimer feels guilt and emotional conflict.
+---
+### 🏛 Political Trouble
+After the war, Oppenheimer opposes the hydrogen bomb.
+During the Cold War, he is accused of having communist connections.
+The U.S. government removes his security clearance.
+His reputation is damaged.
+---
+### 🎭 Movie Theme
+The movie focuses on:
+* Science vs morality
+* Power and responsibility
+* Politics and betrayal
+* Psychological struggle
+It shows how one man changed the world — and suffered because of it.
